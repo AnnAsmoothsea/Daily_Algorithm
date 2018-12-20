@@ -6,7 +6,7 @@
 <br>
 (持续更新)
 ------
-&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/17:🎮俄罗斯方块
+&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/17:🎮[俄罗斯方块](https://github.com/AnnAsmoothsea/Daily_Algorithm/blob/master/nowcoder/test1216.java)
 </br>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;/*
@@ -17,7 +17,7 @@
 
 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/18:🌟二维数组中的查找
+&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/18:🌟[二维数组中的查找](https://github.com/AnnAsmoothsea/Daily_Algorithm/blob/master/nowcoder/Solution.java)
 </br>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;/*
@@ -26,7 +26,7 @@
 
 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/19:替换空格
+&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/19:[替换空格](https://github.com/AnnAsmoothsea/Daily_Algorithm/blob/master/nowcoder/ChangeSpace.java)
 </br>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;/*
