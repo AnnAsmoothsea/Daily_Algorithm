@@ -6,7 +6,7 @@
 <br>
 (持续更新)
 ------
-&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/17:🎮俄罗斯方块
+&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/17:🎮[俄罗斯方块](https://github.com/AnnAsmoothsea/Daily_Algorithm/blob/master/nowcoder/test1216.java)
 </br>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;/*
@@ -17,7 +17,7 @@
 
 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/18:🌟二维数组中的查找
+&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/18:🌟[二维数组中的查找](https://github.com/AnnAsmoothsea/Daily_Algorithm/blob/master/nowcoder/Solution.java)
 </br>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;/*
@@ -26,11 +26,20 @@
 
 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/19:替换空格
+&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/19:[替换空格](https://github.com/AnnAsmoothsea/Daily_Algorithm/blob/master/nowcoder/ChangeSpace.java)
 </br>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;/*
 &nbsp;&nbsp;&nbsp;&nbsp;请实现一个函数，将一个字符串中的每个空格替换成“%20”。例如，当字符串为We Are Happy.则经过替换之后的字符串为We%20Are%20Happy。
+&nbsp;&nbsp;&nbsp;&nbsp;*/
+
+</br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Day_2018/12/19:[返回一个ArrayList](https://github.com/AnnAsmoothsea/Daily_Algorithm/blob/master/nowcoder/ChangeSpace.java)
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;/*
+&nbsp;&nbsp;&nbsp;&nbsp;输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
 &nbsp;&nbsp;&nbsp;&nbsp;*/
 
 </br>
