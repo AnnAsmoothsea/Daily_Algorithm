@@ -1,6 +1,6 @@
 # Daily_Algorithm
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从项目建立开始，我会每天更新一道我所做的算法题，写出思路分析、锻炼解题能力。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从项目建立开始，我会尽量每天更新一道我所做的算法题，写出思路分析、锻炼解题能力。
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注：所有的题目均来源于[牛客网](https://www.nowcoder.com)、[leetcode](https://leetcode.com/)
 <br>
